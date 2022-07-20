@@ -3,10 +3,14 @@
 <br>
  ✉️ My email : <a href="mailto:mahdiyar.8hp@gmail.com">mahdiyar.8hp@gmail.com</a>
 <br><br>
-My languages : C#, python, php, javascript, html, css
-<br><br>
+
 My frameworks : bootstrap, django, laravel, wordpress<br>
 
+
+ID rubika : @mahdiyar_laxer <br>
+ID gap : @MAHDIYAR_HOSSEINPOOR <br>
+ID instagram : @mahdiyarhlxp <br>
+ID telegram : @laxer_support_bot <br>
 ## About Me (: 🔧
 <!-- <a href="https://github.com/Mahdiyar-Hosseinpoor">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiyar-Hosseinpoor" />
